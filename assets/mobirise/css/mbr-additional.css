@@ -37,6 +37,13 @@
   color: #252525;
   font-size: 20px;
 }
+
+/*I added this for lab in contact*/
+label {
+  font-family: 'Jaldi', sans-serif;
+  color: #252525;
+}
+
 #msg-box3-0 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
